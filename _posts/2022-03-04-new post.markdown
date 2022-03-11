@@ -24,4 +24,4 @@ categories: jekyll update
 * 'git branch'
 * 'git checkout'
 
-* 'git reset' ^^;
+* 'git reset'
