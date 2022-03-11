@@ -10,3 +10,8 @@ categories: jekyll update
 
 알고리즘이라는 용어는 9세기경 페르시아 수학자인 알 콰리즈미의 이름으로부터
 유래되었다고 한다.
+## 깃의 3가지
+* 'git add'
+* 'git commit'
+* 'git push'
+
