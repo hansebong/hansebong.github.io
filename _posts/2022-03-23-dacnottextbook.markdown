@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "분할정복 알고리즘 교재"
+title:  "분할정복 알고리즘 교재에 없는것"
 date:   2022-03-23 17:09:00 +0900
 categories: jekyll update	
 ---
@@ -9,7 +9,7 @@ categories: jekyll update
 ### 1.원래 문제가 분할하여 비슷한 유형의 더 작은 하위 문제로 분할이 가능할 때 까지 나눈다.
 ### 2.각 하위 문제를 재귀적으로 해결한다. 하위 문제의 규모가 나눌 수 없는 단위가 되면 탈출 조건을 설정하고 해결한다.
 ### 3. Conquer한 문제들을 통합하여 원래 문제의 답을 얻어 해결한다.   
-분할정복에 대한 그림
+* 분할정복에 대한 그림
 ![](https://blog.kakaocdn.net/dn/1jaZt/btrd1xZC9sT/BZy2RklFUqqUhS1AuCJxW1/img.png)
 # 2.분할정보 특징 및 장단점
 ### 장점
